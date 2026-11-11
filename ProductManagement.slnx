@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Application/ProductManagement.Application.csproj" Id="27e7d001-f8ee-434e-bc7a-811d4b8e928c" />
+  <Project Path="Domain/ProductManagement.Domain.csproj" Id="bd584257-bc19-41e9-8783-54799901b78d" />
+  <Project Path="Infrastructure/ProductManagement.Infrastructure.csproj" Id="afda21a8-ec29-46e7-8e89-46da218e1ddb" />
+  <Project Path="ProductManagement.Api/ProductManagement.Api.csproj" Id="f193a681-600d-4e4b-9516-374d676420a1" />
+</Solution>
